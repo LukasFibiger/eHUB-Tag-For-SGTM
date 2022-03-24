@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "eHUB - transakction",
+  "categories": ["AFFILIATE_MARKETING", "ADVERTISING", "CONVERSIONS"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
