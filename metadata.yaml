@@ -1,5 +1,5 @@
 homepage: "https://github.com/LukasFibiger/eHUB-Tag-For-SGTM"
 documentation: "https://github.com/LukasFibiger/eHUB-Tag-For-SGTM"
 versions:
-  - sha: 9aa9a7522c613b0babd45354570ecd5bdc86bde6
-    changeNotes: Initial release.
+  - sha: 68cc3c9d67d7d4442b357b5aabb3c475a86bbb6d
+    changeNotes: Fixed mistake in name template.
